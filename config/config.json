@@ -1,0 +1,7 @@
+{
+  "maxThreads": 100,
+  "minThreads": 10,
+  "threadTimeout": 120000,
+  "port": 8080,
+  "dbConnectionString": "jdbc:sqlite:./database/henry.db"
+}
